@@ -1,8 +1,7 @@
-streamlit
+sstreamlit
 numpy
 pandas
 opencv-python-headless
-tensorflow
-keras
+tensorflow-cpu
 pillow
 scikit-learn
